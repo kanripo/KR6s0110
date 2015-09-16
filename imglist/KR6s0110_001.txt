@@ -1,0 +1,7 @@
+001-1072a00	T 001-1072a	buddhist/T-taisho/T55/10/T55-1072.png
+001-1072b00	T 001-1072b	buddhist/T-taisho/T55/10/T55-1072.png
+001-1072c00	T 001-1072c	buddhist/T-taisho/T55/10/T55-1072.png
+001-1073a00	T 001-1073a	buddhist/T-taisho/T55/10/T55-1073.png
+001-1073b00	T 001-1073b	buddhist/T-taisho/T55/10/T55-1073.png
+001-1073c00	T 001-1073c	buddhist/T-taisho/T55/10/T55-1073.png
+001-1074a00	T 001-1074a	buddhist/T-taisho/T55/10/T55-1074.png
